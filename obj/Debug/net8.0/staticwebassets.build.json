@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "D0+BcNUgFzh4lcPDgSQNoTkjBP7pwdyrFEm8Iga30IM=",
+  "Source": "MovieBooking.Api",
+  "BasePath": "_content/MovieBooking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieBooking.Api/wwwroot",
+      "Source": "MovieBooking.Api",
+      "ContentRoot": "/Users/millu/Desktop/PROJECTS/Movie/wwwroot/",
+      "BasePath": "_content/MovieBooking.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/millu/Desktop/PROJECTS/Movie/wwwroot/index.html",
+      "SourceId": "MovieBooking.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/millu/Desktop/PROJECTS/Movie/wwwroot/",
+      "BasePath": "_content/MovieBooking.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
