@@ -4,9 +4,7 @@ A robust, concurrency-safe backend system for managing movie seat availability a
 Designed to handle high contention, network failures, and race conditions without overbooking.
 
 
-<video src="movie.mov" controls="controls" muted="muted" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+![Demo of Movie Booking System](movie.gif)
 
 
 ## The Problem
